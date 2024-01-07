@@ -1,0 +1,37 @@
+Product,Region,Department,Expense_Type,Month,Year,Quantity,Unit_Cost,Total_Cost,Discount,Supplier,Payment_Method,Employee_ID,Project_Code,Approval_Status,Location,Is_Reimbursable
+Laptop,North,Sales,Marketing,January,2023,100,800,80000,5%,ABC Electronics,Credit Card,1001,P-001,Approved,Office1,Yes
+Desktop,South,Finance,Utilities,February,2023,50,1200,60000,10%,XYZ Tech,Cash,1002,P-002,Pending,Office2,No
+Tablet,East,HR,Travel,March,2023,75,500,37500,8%,Gadget World,Debit Card,1003,P-003,Approved,Office3,Yes
+Smartphone,West,IT,Stationery,April,2023,120,200,24000,3%,Tech Haven,Invoice,1004,P-004,Approved,Office4,No
+Printer,Central,Production,Equipment,May,2023,30,1500,45000,15%,Print Tech,Wire Transfer,1005,P-005,Pending,Office5,Yes
+Headphones,North,Sales,Marketing,June,2023,80,300,24000,7%,Audio Empire,Credit Card,1006,P-006,Approved,Office1,No
+Monitor,South,Finance,Utilities,July,2023,40,1000,40000,12%,Visual Dynamics,Cash,1007,P-007,Pending,Office2,Yes
+Camera,East,HR,Travel,August,2023,90,400,36000,6%,Snap Gear,Debit Card,1008,P-008,Approved,Office3,No
+Mouse,West,IT,Stationery,September,2023,60,150,9000,4%,Tech World,Invoice,1009,P-009,Pending,Office4,Yes
+Keyboard,Central,Production,Equipment,October,2023,25,1200,30000,10%,Type Master,Wire Transfer,1010,P-010,Approved,Office5,No
+Printer,North,Sales,Marketing,November,2023,35,800,28000,8%,Print Plus,Credit Card,1011,P-011,Pending,Office1,Yes
+Smartphone,South,Finance,Utilities,December,2023,70,1000,70000,5%,Mobile Hub,Cash,1012,P-012,Approved,Office2,No
+Tablet,East,HR,Travel,January,2024,45,700,31500,9%,Gizmo Store,Debit Card,1013,P-013,Approved,Office3,Yes
+Laptop,West,IT,Stationery,February,2024,110,250,27500,6%,Tech Galaxy,Invoice,1014,P-014,Pending,Office4,No
+Monitor,Central,Production,Equipment,March,2024,55,1100,60500,14%,Visual Tech,Wire Transfer,1015,P-015,Pending,Office5,Yes
+Printer,North,Sales,Marketing,November,2024,40,900,36000,6%,Print Pro,Credit Card,1056,P-056,Approved,Office1,Yes
+Smartphone,South,Finance,Utilities,December,2024,75,1100,82500,8%,Mobile Galaxy,Cash,1057,P-057,Approved,Office2,No
+Tablet,East,HR,Travel,January,2025,50,600,30000,5%,Gizmo Haven,Debit Card,1058,P-058,Pending,Office3,Yes
+Laptop,West,IT,Stationery,February,2025,95,250,23750,3%,Tech World,Invoice,1059,P-059,Approved,Office4,No
+Monitor,Central,Production,Equipment,March,2025,30,1200,36000,12%,Visual Dynamics,Wire Transfer,1060,P-060,Pending,Office5,Yes
+Headphones,North,Sales,Marketing,April,2025,85,400,34000,7%,Audio Empire,Credit Card,1061,P-061,Approved,Office1,No
+Mouse,South,Finance,Utilities,May,2025,40,800,32000,10%,Tech Plus,Cash,1062,P-062,Pending,Office2,Yes
+Printer,East,HR,Travel,June,2025,110,700,77000,8%,Gadget Store,Debit Card,1063,P-063,Approved,Office3,Yes
+Smartphone,West,IT,Stationery,July,2025,65,300,19500,5%,Tech Haven,Invoice,1064,P-064,Approved,Office4,No
+Tablet,Central,Production,Equipment,August,2025,50,1300,65000,15%,Type Master,Wire Transfer,1065,P-065,Pending,Office5,Yes
+Keyboard,North,Sales,Marketing,November,2025,35,700,24500,9%,Type Plus,Credit Card,1106,P-106,Pending,Office1,Yes
+Printer,South,Finance,Utilities,December,2025,70,900,63000,12%,Print Haven,Cash,1107,P-107,Approved,Office2,No
+Smartphone,East,HR,Travel,January,2026,95,1100,104500,6%,Mobile Tech,Debit Card,1108,P-108,Pending,Office3,Yes
+Tablet,West,IT,Stationery,February,2026,40,600,24000,8%,Gizmo World,Invoice,1109,P-109,Approved,Office4,No
+Laptop,Central,Production,Equipment,March,2026,80,1200,96000,10%,Tech Dynamics,Wire Transfer,1110,P-110,Pending,Office5,Yes
+Headphones,North,Sales,Marketing,April,2026,55,400,22000,5%,Audio Plus,Credit Card,1111,P-111,Approved,Office1,No
+Mouse,South,Finance,Utilities,May,2026,30,800,24000,7%,Tech Haven,Cash,1112,P-112,Pending,Office2,Yes
+Printer,East,HR,Travel,June,2026,110,700,77000,11%,Gadget Tech,Debit Card,1113,P-113,Approved,Office3,Yes
+Smartphone,West,IT,Stationery,July,2026,65,300,19500,4%,Tech World,Invoice,1114,P-114,Approved,Office4,No
+Tablet,Central,Production,Equipment,August,2026,50,1300,65000,14%,Type Tech,Wire Transfer,1115,P-115,Pending,Office5,Yes
+
